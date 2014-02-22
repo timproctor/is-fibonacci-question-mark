@@ -1,7 +1,7 @@
 is-fibonacci-question-mark
 ==========================
 
-# Test if a given number is part of the Fibonacci Sequence
+Test if a given number is part of the Fibonacci Sequence
 
 # Method returns True or False
 
